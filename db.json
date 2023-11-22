@@ -1,0 +1,62 @@
+{
+  "menu": [
+    {
+      "img": "img/tabs/1.png",
+      "alt": "vegy",
+      "title": "Plan 'Usual'",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit nesciunt facere, sequi exercitationem praesentium ab cupiditate beatae debitis perspiciatis itaque quaerat id modi corporis delectus ratione nobis harum voluptatum in.",
+      "price": 10
+    },
+    {
+      "img": "img/tabs/2.jpg",
+      "alt": "elite",
+      "title": "Plan 'PREMIUM'",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit nesciunt facere, sequi exercitationem praesentium ab cupiditate beatae debitis perspiciatis itaque quaerat id modi corporis delectus ratione nobis harum voluptatum in.",
+      "price": 15
+    },
+    {
+      "img": "img/tabs/3.jpg",
+      "alt": "post",
+      "title": "Plan 'VIP'",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit nesciunt facere, sequi exercitationem praesentium ab cupiditate beatae debitis perspiciatis itaque quaerat id modi corporis delectus ratione nobis harum voluptatum in.",
+      "price": 20
+    }
+  ],
+  "requests": [
+    {
+      "name": "Nodirbek Xushbaxtov",
+      "phone": "+998935777176",
+      "id": 1
+    },
+    {
+      "name": "Nodirbek Xushbaxtov",
+      "phone": "+998935777176",
+      "id": 2
+    },
+    {
+      "name": "Nodirbek Xushbaxtov",
+      "phone": "+998935777176",
+      "id": 3
+    },
+    {
+      "name": "Xnglobal",
+      "phone": "+998935777176",
+      "id": 4
+    },
+    {
+      "name": "Nodirbek Xushbaxtov",
+      "phone": "+998935777176",
+      "id": 5
+    },
+    {
+      "name": "Nodirbek Xushbaxtov",
+      "phone": "+998935777176",
+      "id": 6
+    },
+    {
+      "name": "Nodirbek Xushbaxtov",
+      "phone": "+998935777176",
+      "id": 7
+    }
+  ]
+}
